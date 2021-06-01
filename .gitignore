@@ -1,0 +1,7 @@
+chromedriver.exe
+venv/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+ORDERS/
+*.ipynb
